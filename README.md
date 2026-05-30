@@ -11,7 +11,7 @@
 <div align="center">
 
 <!-- ▸ LAYER 1: Animated Gradient Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=GOKUL%20M.&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%E2%9A%A1%20Full%20Stack%20Developer%20%E2%80%A2%20AI%20%26%20Data%20Science%20Student%20%E2%80%A2%20Problem%20Solver&descAlignY=55&descSize=17&descColor=ffffffAA" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=GOKUL%20M.&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%E2%9A%A1%20Full%20Stack%20Developer%20%E2%80%A2%20AI%20and%20Data%20Science%20Student%20%E2%80%A2%20Problem%20Solver&descAlignY=55&descSize=17&descColor=ffffffAA" />
 
 <!-- ▸ LAYER 2: Animated Typing SVG — Cinematic Taglines -->
 <a href="https://git.io/typing-svg">
@@ -118,7 +118,7 @@ const gokulM = {
 </div>
 
 <!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    TECH STACK — CINEMATIC ICONS                     ║ -->
+<!-- ║                    TECH STACK — ORIGINAL LOGOS                      ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
 <br/>
@@ -129,27 +129,15 @@ const gokulM = {
 
 <br/>
 
-<!-- ▸ Premium Skill Icons — Glassmorphism Style -->
+<!-- ▸ Premium Skill Icons — Full Color Original Logos -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,react,nodejs,express,js,ubuntu,linux&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,java,react,nodejs,express,js,ubuntu,linux&theme=dark&perline=8" />
 </a>
 
 <br/><br/>
 
-<!-- ▸ Individual Animated Badges for Extra Cinematic Effect -->
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-
-<br/><br/>
-
 <!-- ▸ Animated Tech Banner -->
-<img src="https://github-widgetbox.vercel.app/api/skills?names=java,react,nodejs,express,javascript,ubuntu,linux&theme=darkblue" alt="Tech Stack" />
+<img src="https://github-widgetbox.vercel.app/api/skills?names=python,java,react,nodejs,express,javascript,ubuntu,linux&theme=darkblue" alt="Tech Stack" />
 
 </div>
 
@@ -187,11 +175,10 @@ Automated **Chest X-ray analysis** with TensorFlow deep learning. Classifies **C
 
 <br/>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+<!-- Original Color Logos -->
+<img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark" height="30" />
 
-<br/>
+<br/><br/>
 
 <a href="https://intelligent-lung-disease-diagnosis.vercel.app/">
   <img src="https://img.shields.io/badge/⚡_LIVE_DEMO-667eea?style=for-the-badge" />
@@ -208,11 +195,10 @@ AI platform for **automated dataset analysis** & insight generation with real-ti
 
 <br/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+<!-- Original Color Logos -->
+<img src="https://skillicons.dev/icons?i=js,nodejs,react&theme=dark" height="30" />
 
-<br/>
+<br/><br/>
 
 <a href="https://advanced-data-vision-max.vercel.app/">
   <img src="https://img.shields.io/badge/⚡_LIVE_DEMO-764ba2?style=for-the-badge" />
@@ -231,11 +217,10 @@ Advanced AI hiring platform with **RAG-powered resume analysis**, ATS optimizati
 
 <br/>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+<!-- Original Color Logos -->
+<img src="https://skillicons.dev/icons?i=react,express,nodejs&theme=dark" height="30" />
 
-<br/>
+<br/><br/>
 
 <a href="https://hire-ai-intelligence-hub.vercel.app/">
   <img src="https://img.shields.io/badge/⚡_LIVE_DEMO-f093fb?style=for-the-badge" />
@@ -252,11 +237,10 @@ Advanced AI hiring platform with **RAG-powered resume analysis**, ATS optimizati
 
 <br/>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+<!-- Original Color Logos -->
+<img src="https://skillicons.dev/icons?i=java,react,nodejs&theme=dark" height="30" />
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/gokulm-dev-official">
   <img src="https://img.shields.io/badge/⚡_VIEW_CODE-f5576c?style=for-the-badge" />
@@ -275,11 +259,10 @@ Real-time vehicle plate recognition from **live camera feeds** using computer vi
 
 <br/>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<!-- Original Color Logos -->
+<img src="https://skillicons.dev/icons?i=java,js,linux&theme=dark" height="30" />
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/gokulm-dev-official">
   <img src="https://img.shields.io/badge/⚡_VIEW_CODE-667eea?style=for-the-badge" />
@@ -375,32 +358,6 @@ Real-time vehicle plate recognition from **live camera feeds** using computer vi
 </div>
 
 <!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    CONTRIBUTION SNAKE — CINEMATIC ANIMATION         ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
-<br/>
-
-<div align="center">
-
-## 🐍 Contribution Devourer
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gokulm-dev-official/gokulm-dev-official/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gokulm-dev-official/gokulm-dev-official/output/github-snake.svg" />
-  <img alt="Snake Animation" src="https://raw.githubusercontent.com/gokulm-dev-official/gokulm-dev-official/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
-
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                    CERTIFICATIONS — ACHIEVEMENT WALL                ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
@@ -426,7 +383,7 @@ Real-time vehicle plate recognition from **live camera feeds** using computer vi
 <tr>
 <td align="center" colspan="3">
 
-<img src="https://img.shields.io/badge/-☁️-232F3E?style=flat-square" width="80" height="80" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="80" height="80" />
 <br/><br/>
 <h3>☁️ AWS Certified Cloud Practitioner</h3>
 <strong>Amazon Web Services (AWS)</strong>
@@ -445,12 +402,12 @@ Real-time vehicle plate recognition from **live camera feeds** using computer vi
 
 <br/>
 
-<!-- ▸ Remaining Certifications Grid -->
+<!-- ▸ Remaining Certifications Grid with ORIGINAL LOGOS -->
 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/-💼-0d1117?style=flat-square" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" />
 <br/><br/>
 <strong>Full Stack Web Dev</strong>
 <br/>
@@ -459,7 +416,7 @@ Real-time vehicle plate recognition from **live camera feeds** using computer vi
 <sub><code>Jan 2026</code></sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/-☁️-0d1117?style=flat-square" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="50" />
 <br/><br/>
 <strong>AWS Generative AI</strong>
 <br/>
@@ -468,7 +425,7 @@ Real-time vehicle plate recognition from **live camera feeds** using computer vi
 <sub><code>Oct 2025</code></sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/-🤖-0d1117?style=flat-square" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="50" height="50" />
 <br/><br/>
 <strong>AI & Machine Learning</strong>
 <br/>
@@ -479,7 +436,7 @@ Real-time vehicle plate recognition from **live camera feeds** using computer vi
 </tr>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/-🐍-0d1117?style=flat-square" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" />
 <br/><br/>
 <strong>Python Basics</strong>
 <br/>
@@ -488,7 +445,7 @@ Real-time vehicle plate recognition from **live camera feeds** using computer vi
 <sub><code>Sep 2025</code></sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/-🏆-0d1117?style=flat-square" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" width="50" height="50" />
 <br/><br/>
 <strong>Payoda Hackathon</strong>
 <br/>
@@ -497,7 +454,7 @@ Real-time vehicle plate recognition from **live camera feeds** using computer vi
 <sub><code>Mar 2025</code></sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/-⚛️-0d1117?style=flat-square" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50" />
 <br/><br/>
 <strong>MERN Stack Bootcamp</strong>
 <br/>
@@ -508,7 +465,7 @@ Real-time vehicle plate recognition from **live camera feeds** using computer vi
 </tr>
 <tr>
 <td align="center" width="33%" colspan="3">
-<img src="https://img.shields.io/badge/-☕-0d1117?style=flat-square" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" />
 <br/><br/>
 <strong>Java Basics</strong>
 <br/>
@@ -626,55 +583,4 @@ Real-time vehicle plate recognition from **live camera feeds** using computer vi
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 🛠️ SETUP GUIDE — DELETE EVERYTHING BELOW AFTER SETUP                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-# 🛠️ Setup Guide (Delete after setup)
-
-## Step 1 — Create Profile Repository
-1. Go to **GitHub → New Repository**
-2. Name it exactly: **`gokulm-dev-official`** (must match your GitHub username)
-3. Make it **Public**
-4. Check **"Add a README file"**
-5. Paste everything **above** the "Setup Guide" heading into `README.md`
-
-## Step 2 — Enable Snake Animation
-Create the file `.github/workflows/snake.yml` in your profile repo:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    steps:
-      - name: Generate Snake SVG
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: gokulm-dev-official
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Deploy to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
 

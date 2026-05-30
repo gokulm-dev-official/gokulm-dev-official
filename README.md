@@ -47,8 +47,7 @@ const gokulM = {
     title: "Full Stack Developer & AI Student",
     education: {
         degree: "B.Tech in AI & Data Science",
-        college: "Excel Engineering College",
-        cgpa: "8.3 / 10"
+        college: "Excel Engineering College"
     },
     currentlyLearning: ["Deep Learning", "System Design"],
     achievement: "🏆 3rd Prize — Payoda Hackathon",
@@ -683,28 +682,3 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-Then go to **Actions → Generate Snake Animation → Run workflow**
-
-## Step 3 — Verify
-After ~2 minutes, your profile will show:
-- ✅ Animated gradient wave header & footer
-- ✅ Typing SVG animation
-- ✅ Rainbow separators between sections
-- ✅ Glassmorphism tech stack icons
-- ✅ GitHub Stats, Streak, Activity Graph, Trophies
-- ✅ LeetCode Stats with heatmap
-- ✅ Animated contribution snake
-- ✅ All social links (LinkedIn, Gmail, Instagram, LeetCode)
-- ✅ Profile view counter
-- ✅ ASCII art name
-- ✅ Random dev quote
-
-## 🎨 Color Palette
-| Color | Hex | Usage |
-|:---:|:---:|:---|
-| 🟣 Primary | `#667eea` | Headers, borders, accents |
-| 🔮 Secondary | `#764ba2` | Gradients, streak fire |
-| 💗 Highlight | `#f093fb` | Points, special elements |
-| 🔴 Action | `#f5576c` | CTAs, important badges |
-| ⚫ Background | `#0D1117` | Card backgrounds |
-| 🟡 LeetCode | `#FFA116` | LeetCode branding |

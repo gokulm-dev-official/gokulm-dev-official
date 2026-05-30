@@ -39,7 +39,7 @@
 
 <br/>
 
-<img align="right" alt="Cinematic Coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73444a6d2b53513d" style="border-radius: 20px;" />
+<img align="right" alt="Cinematic Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="border-radius: 20px;" />
 
 ```javascript
 const gokulM = {
@@ -342,8 +342,6 @@ Real-time vehicle plate recognition from **live camera feeds** using computer vi
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-
-
 <!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                    LEETCODE STATS — COMPETITIVE PROGRAMMING         ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
@@ -528,8 +526,6 @@ Real-time vehicle plate recognition from **live camera feeds** using computer vi
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
-
-
 
 <!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                    CURRENT FOCUS — ANIMATED BADGES                  ║ -->

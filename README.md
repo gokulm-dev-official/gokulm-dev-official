@@ -1,4 +1,4 @@
-# ✨ GOKUL M — Ultimate Cinematic GitHub Profile
+# ✨ GOKUL M — GitHub Profile
 
 > **Copy everything below this line into your `gokulm-dev-official/README.md`**
 
@@ -15,7 +15,7 @@
 
 <!-- ▸ LAYER 2: Animated Typing SVG — Cinematic Taglines -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=3000&pause=800&color=667EEAFF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%F0%9F%92%8E+Welcome+to+my+Digital+Universe;%F0%9F%9A%80+Building+AI-Powered+Platforms+at+Scale;%E2%9C%A8+Turning+Complex+Problems+into+Elegant+Solutions;%F0%9F%94%A5+Fueled+by+Curiosity%2C+Driven+by+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=1800&pause=400&color=667EEAFF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=150&lines=%F0%9F%92%8E+Welcome+to+my+Digital+Universe;%F0%9F%9A%80+Building+AI-Powered+Platforms+at+Scale;%E2%9C%A8+Turning+Complex+Problems+into+Elegant+Solutions;%F0%9F%94%A5+Fueled+by+Curiosity%2C+Driven+by+Code" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -131,13 +131,10 @@ const gokulM = {
 
 <!-- ▸ Premium Skill Icons — Full Color Original Logos -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,java,react,nodejs,express,js,ubuntu,linux&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,java,react,nodejs,express,js,mongodb,ubuntu,linux&theme=dark&perline=9" />
 </a>
 
-<br/><br/>
 
-<!-- ▸ Animated Tech Banner -->
-<img src="https://github-widgetbox.vercel.app/api/skills?names=python,java,react,nodejs,express,javascript,ubuntu,linux&theme=darkblue" alt="Tech Stack" />
 
 </div>
 
@@ -543,13 +540,13 @@ Real-time vehicle plate recognition from **live camera feeds** using computer vi
 
 <br/>
 
-```
- ██████╗  ██████╗ ██╗  ██╗██╗   ██╗██╗         ███╗   ███╗
-██╔════╝ ██╔═══██╗██║ ██╔╝██║   ██║██║         ████╗ ████║
-██║  ███╗██║   ██║█████╔╝ ██║   ██║██║         ██╔████╔██║
-██║   ██║██║   ██║██╔═██╗ ██║   ██║██║         ██║╚██╔╝██║
-╚██████╔╝╚██████╔╝██║  ██╗╚██████╔╝███████╗    ██║ ╚═╝ ██║
- ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝    ╚═╝     ╚═╝
+```text
+                  ██████╗  ██████╗ ██╗  ██╗██╗   ██╗██╗         ███╗   ███╗
+                 ██╔════╝ ██╔═══██╗██║ ██╔╝██║   ██║██║         ████╗ ████║
+                 ██║  ███╗██║   ██║█████╔╝ ██║   ██║██║         ██╔████╔██║
+                 ██║   ██║██║   ██║██╔═██╗ ██║   ██║██║         ██║╚██╔╝██║
+                 ╚██████╔╝╚██████╔╝██║  ██╗╚██████╔╝███████╗    ██║ ╚═╝ ██║
+                  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝    ╚═╝     ╚═╝
 ```
 
 <br/>
@@ -581,6 +578,4 @@ Real-time vehicle plate recognition from **live camera feeds** using computer vi
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" width="100%" />
 
 </div>
-
----
 

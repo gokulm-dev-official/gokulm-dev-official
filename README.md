@@ -1,8 +1,4 @@
-# ✨ GOKUL M — GitHub Profile
 
-> **Copy everything below this line into your `gokulm-dev-official/README.md`**
-
----
 
 <!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                    CINEMATIC HEADER SEQUENCE                        ║ -->
